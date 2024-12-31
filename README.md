@@ -30,4 +30,4 @@ This also shows if your in the website as well
 9. Open the .py file once again and run it on a IDE or text editor that can run code
 And your done!
 
-### Submit an issue if you want to recommend more ideas to add to the RPC 😊
+### Submit an issue or pull request if you want to recommend more ideas to add to the RPC 😊
