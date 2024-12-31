@@ -56,7 +56,7 @@ try:
             print(f"No windows found matching '{pcsv2}' (This might find browser tab aswell.)")
             client.update()
 
-        # Wait for 0.5 seconds before checking again
+        # Wait for 0.1 seconds before checking again
         time.sleep(0.1)
 
 except Exception as e:
