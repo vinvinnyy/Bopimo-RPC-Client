@@ -6,7 +6,7 @@ This also shows if your in the website as well
 ## How to Setup
 
 >[!Note]
->You need to download Python 3.11.6 before going here
+>You need to download Python 3.11.6 before going here (**please add python to path**)
 >https://www.python.org/downloads/release/python-3116/
 
 1. Go to the Developer Portal (https://discord.com/developers/applications)
