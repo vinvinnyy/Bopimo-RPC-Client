@@ -25,7 +25,7 @@ This also shows if your in the website as well
 
 >[!Note]
 >You need to download VSCode before going to step 9
->(Why you might ask, it because due to just opening it by python launcher itself will not recognizing module pypresence (thing to do the RPC)  i recommend running the batch file then opening the python file on vscode or any IDE that can run code in it ill be fixng that error later on)
+>(Why you might ask, it because due to just opening it by python launcher itself will not recognize module pypresence (thing to do the RPC)  i recommend running the batch file then opening the python file on vscode or any IDE that can run code in it ill be fixng that error later on)
 
 9. Open the .py file once again and run it on a IDE or text editor that can run code
 And your done!
